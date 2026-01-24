@@ -79,8 +79,6 @@ EDEN-PACS-QA-CHALLENGE
 
 ## Enlaces Directos
 
-## Contenido
-
 - [Descripción funcional](length/overview.md)
 - [Casos de prueba](length/testcases.md)
 - [Bug report](length/bugs.md)
