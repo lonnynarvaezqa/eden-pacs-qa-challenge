@@ -1,5 +1,7 @@
 # Eden PACS – QA Challenge
 
+![Eden PACS – QA Challenge](assets/eden-pacs-qa-challenge.png)
+
 ## Propósito
 
 Este repositorio contiene la resolución del **QA Challenge de Eden Medical**, enfocado en evaluar una funcionalidad clínica crítica dentro del **visor MPR de Eden PACS**.
