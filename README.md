@@ -63,18 +63,16 @@ Aspectos clave considerados:
 ## Estructura del Repositorio
 
 eden-pacs-qa-challenge/
-│
-├── README.md
-│
 ├── assets/
-│ └── length-overlay-visibility.png
-│
-└── length/
-├── overview.md # Contexto funcional y clínico de la herramienta
-├── testcases.md # Casos de prueba priorizados desde el uso real
-├── bugs.md # Bug report del comportamiento del menú circular
-└── feedback.md # Feedback sobre uso y oportunidades de mejora
-
+│   ├── eden-pacs-qa-challenge.png
+│   ├── length-overlay-visibility.mov
+│   └── length-overlay-visibility.png
+├── length/
+│   ├── bugs.md
+│   ├── feedback.md
+│   ├── overview.md
+│   └── testcases.md
+└── README.md
 ---
 
 ## Evidencia visual
