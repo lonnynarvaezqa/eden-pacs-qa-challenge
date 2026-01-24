@@ -77,6 +77,14 @@ EDEN-PACS-QA-CHALLENGE
 ```
 ---
 
+
+- [Descripción funcional](length/overview.md)
+- [Casos de prueba](length/testcases.md)
+- [Bug report](length/bugs.md)
+- [Feedback](length/feedback.md)
+
+---
+
 ## Evidencia visual
 
 En la carpeta `/assets` se incluye evidencia visual que documenta escenarios de uso donde la interacción con el menú circular permite la creación consecutiva de múltiples mediciones y anotaciones.
