@@ -66,14 +66,14 @@ eden-pacs-qa-challenge/
 │
 ├── README.md
 │
-/length
+├── assets/
+│ └── length-overlay-visibility.png
+│
+└── length/
 ├── overview.md # Contexto funcional y clínico de la herramienta
-├── test-cases.md # Casos de prueba priorizados desde el uso real
+├── testcases.md # Casos de prueba priorizados desde el uso real
 ├── bugs.md # Bug report del comportamiento del menú circular
 └── feedback.md # Feedback sobre uso y oportunidades de mejora
-│
-/assets
-└── length-overlay-visibility.png # Evidencia visual del comportamiento observado
 
 ---
 
