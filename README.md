@@ -62,19 +62,19 @@ Aspectos clave considerados:
 
 ## Estructura del Repositorio
 
-```text
+```
 EDEN-PACS-QA-CHALLENGE
-├── assets
+├── assets                # Visual and video evidence
 │   ├── eden-pacs-qa-challenge.png
 │   ├── length-overlay-visibility.mov
 │   └── length-overlay-visibility.png
-├── length
-│   ├── bugs.md
-│   ├── feedback.md
-│   ├── overview.md
-│   └── testcases.md
+├── length                # Length measurement feature analysis
+│   ├── bugs.md           # Identified issues
+│   ├── feedback.md       # UX and functional feedback
+│   ├── overview.md       # Feature overview and scope
+│   └── testcases.md      # Test cases and scenarios
 └── README.md
-
+```
 ---
 
 ## Evidencia visual
