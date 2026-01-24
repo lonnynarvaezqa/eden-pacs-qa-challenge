@@ -77,6 +77,7 @@ EDEN-PACS-QA-CHALLENGE
 ```
 ---
 
+## Enlaces Directos
 
 - [Descripción funcional](length/overview.md)
 - [Casos de prueba](length/testcases.md)
